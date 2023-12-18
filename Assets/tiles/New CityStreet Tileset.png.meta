@@ -1,0 +1,1425 @@
+fileFormatVersion: 2
+guid: e1385f7916a614e1890b247a26a05b10
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New CityStreet Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa8db3aa05c246818ccd9fe2e083d01
+      internalID: 432057259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b10a4cb51744edfab38bc947a4c800
+      internalID: -1344552670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0f1d2ac718c45e09915167af6c361c
+      internalID: 1398392319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb51d9bfe79e440a4a5c003ef3b01ae6
+      internalID: 449694506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c1699d833964548973f741cbb1a59a
+      internalID: -2143753804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f13abeddac8472582d09f36bc87a73
+      internalID: -1061873628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a80fd2e8bf864c77b7a999d6ca25f45
+      internalID: -1382400728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79dec5026053e4919857165b35e887c8
+      internalID: -1586209005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1340
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519bd19b41cac412598316bd6b9bf82e
+      internalID: -1064542606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b9bfdfa501a467180aea56eda2bdb2
+      internalID: 2033515694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6d0ddbefc7c476b95ced5a6ce242cc
+      internalID: 1695929096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73fab4955362456f83a5a9bf7943a91
+      internalID: -554980472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70263a03a2c92425a8c28454dcbf7891
+      internalID: -145745530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d07b467975743cfa231b196f3264ce
+      internalID: -897095839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895bdfa07abe48a9a57fc482459fc03
+      internalID: 1749830924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bba102e6b9564ad996a0c14734e7522
+      internalID: -1886454509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1260
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cea715a1ce1444e994574f8e4936bf
+      internalID: 1063814930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae6d6830b0e44df7b514c5eab6908eb
+      internalID: 1418225978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8f0dae6663c4db0aae76ee332ac0db
+      internalID: 213905919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb50d4999daec4f938db7652a03a6e9d
+      internalID: 1863553056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c32b127fb024dd0961d7a6eb4113a5
+      internalID: -1809580410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebe6d93a51b49a49f6d0669cbf35ca
+      internalID: 1023328362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a5d1203fc24756849bdf93b69c694
+      internalID: -762023411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50184e092e65341c0a33001d62e2a36c
+      internalID: -593951971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1180
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028afefbbdf9240c0b2bfb772b293d42
+      internalID: 719720433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013ed6db462994a61981d284abbc3fde
+      internalID: 610130699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db019403478894555ac3eab6c9709e86
+      internalID: -1395149024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbd94f7f1b9049b08da60e3afd6491b
+      internalID: 671055741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999680d3793ce475ca566b6540892f20
+      internalID: 2101234762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef31e0d47ba14cec9e69fcea94fad77
+      internalID: -738001775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622274be7dfce4ea4815fa9f46f77c56
+      internalID: 2116769161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fb03914e1a646478a8976f6a469f2d
+      internalID: 1003864638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd47317cd78814cb482591f1dff61873
+      internalID: 2003571927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ec8eb7ed56423e834bd9334b257b2
+      internalID: 1364044016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1020
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb448af1689486fb11e6219604506c
+      internalID: 1915867690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27b0dd6ca61349b2b27b697f6694e7b
+      internalID: -81876459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cdd22946b73451ea7957ef4607b7a6
+      internalID: 648863540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc6dce81e1d04b0f97184405d5ff78f
+      internalID: 1527161847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38788f87fd9d4224bb46a0f755c2602
+      internalID: 1637325122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc20e270fae044f4a33c5ba5edeeca9
+      internalID: -1647737826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6409a53ab275d4ec2bc25a134fcfa648
+      internalID: -2013780413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9eaf57ba27a74850b025c38970e1acf
+      internalID: -1998215884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17baee7fa60f249cb9906e4ba66b0379
+      internalID: 138954970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b6d902f9e2943f39f8f4629992f7c8
+      internalID: 478570102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d97ece2246c740a3a365530a8e5ae70
+      internalID: -1851749068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 940
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073912e8e8abe4855bb89fbba534f4b3
+      internalID: 328118189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 860
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd041b4f7dc1047f4a1009126459ce4d
+      internalID: -1909393386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 860
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6434d1c55af0e4c2db7c5610276925de
+      internalID: 1930503832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 860
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e0a31f32364400e8fce555806e2cf2
+      internalID: -1911160825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 860
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dcd38e258da4efaad03a1c26e550d4
+      internalID: 697213584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 780
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdcbb19081874291b1d8d3259b8ccc8
+      internalID: -922447635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 780
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc458135dbf448b8a00e9ecdb11cd9f
+      internalID: -1074718974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 780
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bf28eb875cf4befadb47069cd64e10
+      internalID: -2096317060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 780
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9673c88e7389346c6acc2d8095d998d3
+      internalID: 1390829941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 780
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bbffdd6053747429a0fcb1fe6ae29c
+      internalID: 1912149332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 700
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac50494e4224e6c8f1ec1a70b75ddb
+      internalID: 1214666543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 700
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48120fcd8ac94692a407e40c642a27a
+      internalID: -1007770508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 700
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf987391f9b25491b899ee02b454ae84
+      internalID: 1941739335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New CityStreet Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 620
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3010c26c03e41738d55b81240dc434
+      internalID: -833197860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      New CityStreet Tileset_0: 432057259
+      New CityStreet Tileset_1: -1344552670
+      New CityStreet Tileset_10: 1695929096
+      New CityStreet Tileset_11: -554980472
+      New CityStreet Tileset_12: -145745530
+      New CityStreet Tileset_13: -897095839
+      New CityStreet Tileset_14: 1749830924
+      New CityStreet Tileset_15: -1886454509
+      New CityStreet Tileset_16: 1063814930
+      New CityStreet Tileset_17: 1418225978
+      New CityStreet Tileset_18: 213905919
+      New CityStreet Tileset_19: 1863553056
+      New CityStreet Tileset_2: 1398392319
+      New CityStreet Tileset_20: -1809580410
+      New CityStreet Tileset_21: 1023328362
+      New CityStreet Tileset_22: -762023411
+      New CityStreet Tileset_23: -593951971
+      New CityStreet Tileset_24: 719720433
+      New CityStreet Tileset_25: 610130699
+      New CityStreet Tileset_26: -1395149024
+      New CityStreet Tileset_27: 671055741
+      New CityStreet Tileset_28: 2101234762
+      New CityStreet Tileset_29: -738001775
+      New CityStreet Tileset_3: 449694506
+      New CityStreet Tileset_30: 2116769161
+      New CityStreet Tileset_31: 1003864638
+      New CityStreet Tileset_32: 2003571927
+      New CityStreet Tileset_33: 1364044016
+      New CityStreet Tileset_34: 1915867690
+      New CityStreet Tileset_35: -81876459
+      New CityStreet Tileset_36: 648863540
+      New CityStreet Tileset_37: 1527161847
+      New CityStreet Tileset_38: 1637325122
+      New CityStreet Tileset_39: -1647737826
+      New CityStreet Tileset_4: -2143753804
+      New CityStreet Tileset_40: -2013780413
+      New CityStreet Tileset_41: -1998215884
+      New CityStreet Tileset_42: 138954970
+      New CityStreet Tileset_43: 478570102
+      New CityStreet Tileset_44: -1851749068
+      New CityStreet Tileset_45: 328118189
+      New CityStreet Tileset_46: -1909393386
+      New CityStreet Tileset_47: 1930503832
+      New CityStreet Tileset_48: -1911160825
+      New CityStreet Tileset_49: 697213584
+      New CityStreet Tileset_5: -1061873628
+      New CityStreet Tileset_50: -922447635
+      New CityStreet Tileset_51: -1074718974
+      New CityStreet Tileset_52: -2096317060
+      New CityStreet Tileset_53: 1390829941
+      New CityStreet Tileset_54: 1912149332
+      New CityStreet Tileset_55: 1214666543
+      New CityStreet Tileset_56: -1007770508
+      New CityStreet Tileset_57: 1941739335
+      New CityStreet Tileset_58: -833197860
+      New CityStreet Tileset_6: -1382400728
+      New CityStreet Tileset_7: -1586209005
+      New CityStreet Tileset_8: -1064542606
+      New CityStreet Tileset_9: 2033515694
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
